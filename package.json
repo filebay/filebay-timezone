@@ -1,0 +1,32 @@
+{
+  "name": "filebay-timezone",
+  "version": "1.0.0",
+  "description": "Returns the current time in a specified timezone or UTC by default",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/filebay"
+  },
+  "keywords": [
+    "timezone",
+    "time-conversion",
+    "utc-conversion",
+    "date-time",
+    "timezone-utility",
+    "local-time",
+    "world-clock",
+    "time-zone-calculator",
+    "timezone-converter",
+    "date-timezone",
+    "global-time",
+    "time-api",
+    "timezone-detection",
+    "utc-time",
+    "timezone-offset"
+  ],
+  "author": "FileBay Inc. - Sherif M",
+  "license": "MIT"
+}
